@@ -3,6 +3,6 @@ cd /d "%~dp0client"
 npm run dev
 
 @echo off
-cd /d "C:\Users\ADMIN\Desktop\Hỏi đáp\DoAn\client"
+cd /d "C:\Users\ADMIN\Desktop\DoAn\client"
 npm run dev
 
